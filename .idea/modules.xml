@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/03-common-class/03-common-class.iml" filepath="$PROJECT_DIR$/03-common-class/03-common-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Senior-Atguigu.iml" filepath="$PROJECT_DIR$/Java-Senior-Atguigu.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch01/ch01.iml" filepath="$PROJECT_DIR$/ch01/ch01.iml" />
     </modules>
