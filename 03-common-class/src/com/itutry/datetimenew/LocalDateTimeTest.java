@@ -11,26 +11,23 @@ import java.time.LocalTime;
 public class LocalDateTimeTest {
 
   public static void main(String[] args) {
-//    test1();
-//    test2();
-    test3();
   }
 
   /**
    * 实例化
    */
   private static void test1() {
-    // now(): 获取当前日期/时间
-    final LocalDate date = LocalDate.now();
-    final LocalTime time = LocalTime.now();
-    final LocalDateTime dateTime = LocalDateTime.now();
-    System.out.println(date);
-    System.out.println(time);
-    System.out.println(dateTime);
+    // 方式一：now(): 获取当前日期/时间
+    final LocalDateTime localDateTime = LocalDateTime.now();
+    final LocalDate localDate = LocalDate.now();
+    final LocalTime localTime = LocalTime.now();
+    System.out.println(localDateTime);
+    System.out.println(localDate);
+    System.out.println(localTime);
 
-    // of(): 指定年、月、日、时、分、秒。没有偏移
-    final LocalDateTime dateTime1 = LocalDateTime.of(2020, 10, 1, 12, 12, 12);
-    System.out.println(dateTime1);
+    // 方式二：of(): 指定年、月、日、时、分、秒。没有偏移
+    final LocalDateTime localDateTime1 = LocalDateTime.of(2020, 10, 1, 10, 10, 10);
+    System.out.println(localDateTime1);
   }
 
   /**
@@ -40,12 +37,17 @@ public class LocalDateTimeTest {
     final LocalDateTime now = LocalDateTime.now();
     System.out.println(now);
 
+    // 获取本月第几天
     System.out.println(now.getDayOfMonth());
+    // 获取星期枚举值
     System.out.println(now.getDayOfWeek());
 
+    // 获取月份枚举值
     System.out.println(now.getMonth());
+    // 获取第几月
     System.out.println(now.getMonthValue());
 
+    // 获取第几秒
     System.out.println(now.getMinute());
   }
 
@@ -56,13 +58,16 @@ public class LocalDateTimeTest {
     final LocalDateTime now = LocalDateTime.now();
 
     // 体现不可变性
+    // 当月的天数改为10
     final LocalDateTime dateTime = now.withDayOfMonth(10);
     System.out.println(now);
     System.out.println(dateTime);
 
+    // 增加一周
     final LocalDateTime dateTime1 = now.plusWeeks(1);
     System.out.println(dateTime1);
 
+    // 减少一年
     final LocalDateTime dateTime2 = now.minusYears(1);
     System.out.println(dateTime2);
   }
