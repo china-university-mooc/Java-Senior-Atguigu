@@ -1,0 +1,6 @@
+
+Esquid:S1068"'Remove this unused "obj" private field.(½¾ë­8¨†òš².
+dsquid:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ìà¤š².
+Fsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ìà¤š².
+asquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8ÎàÄš².
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷æôö8¨†òš².

@@ -1,0 +1,5 @@
+
+fsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ8´Ää¢².
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8´Ää¢².
+\squid:S2168"9Remove this dangerous instance of double-checked locking.(»‡ì¸ıÿÿÿÿ8´Ää¢².
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´Ää¢².
