@@ -12,6 +12,10 @@ public class App {
   }
 
   public static String sort(String s) {
+    if (s == null) {
+      return null;
+    }
+
     char[] chars = s.toCharArray();
 
     for (int i = 0; i < s.length() - 1; i++) {

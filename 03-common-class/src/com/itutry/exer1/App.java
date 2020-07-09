@@ -7,16 +7,24 @@ public class App {
 
   public static void main(String[] args) {
     String s1 = "   Hello World  ";
+//    s1 = "    ";
     String s2 = trim(s1);
     System.out.println("---" + s2 + "---");
   }
 
   public static String trim(String s) {
-    int start = 0;
-    while (s.charAt(start) == ' ') start++;
+    if (s == null) {
+      return null;
+    }
 
+    int start = 0;
     int end = s.length() - 1;
-    while (s.charAt(end) == ' ') end--;
+    while (s.charAt(start) == ' ' && start < end) start++;
+    while (s.charAt(end) == ' ' && start < end) end--;
+
+    if (s.charAt(start) == ' ') {
+      return "";
+    }
 
     int length = end - start + 1;
     char[] arr = new char[length];
