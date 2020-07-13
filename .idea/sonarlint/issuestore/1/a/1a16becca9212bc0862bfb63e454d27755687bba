@@ -1,0 +1,7 @@
+
+isquid:CallToDeprecatedMethod"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(Ì²Ö©þÿÿÿÿ8¶¾Èù².
+Bsquid:S2129"$Remove this "BigInteger" constructor(ö‘†Ü8ÿûÄù².
+]squid:CallToDeprecatedMethod".Remove this use of "divide"; it is deprecated.(ú¦Ò«8¬€Èù².
+dsquid:CallToDeprecatedMethod"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(ú¦Ò«8¬€Èù².
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÂÐÉÞýÿÿÿÿ8ØÌÍù².
+bsquid:CallToDeprecatedMethod".Remove this use of "divide"; it is deprecated.(Ì²Ö©þÿÿÿÿ8¶¾Èù².

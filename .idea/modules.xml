@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/02-thread/02-thread.iml" filepath="$PROJECT_DIR$/02-thread/02-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-common-class/03-common-class.iml" filepath="$PROJECT_DIR$/03-common-class/03-common-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-common-class/04-common-class.iml" filepath="$PROJECT_DIR$/04-common-class/04-common-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-enum-annotation/05-enum-annotation.iml" filepath="$PROJECT_DIR$/05-enum-annotation/05-enum-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Senior-Atguigu.iml" filepath="$PROJECT_DIR$/Java-Senior-Atguigu.iml" />
     </modules>
   </component>
