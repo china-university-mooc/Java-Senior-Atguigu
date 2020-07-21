@@ -1,0 +1,4 @@
+
+Ksquid:S1481"(Remove this unused "arr" local variable.(¿õšÔüÿÿÿÿ8õŒµ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎĞ·óşÿÿÿÿ8õŒµ.
+wsquid:S3012,"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(İå¼¤8½ÜÄµ.

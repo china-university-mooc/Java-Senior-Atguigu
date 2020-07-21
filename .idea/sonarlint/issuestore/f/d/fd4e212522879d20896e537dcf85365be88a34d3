@@ -1,0 +1,10 @@
+
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÖÅ¾ñ8œÁ°˜µ.
+_squid:S10756"ARefactor your code to get this URI from a customizable parameter.(§‹ŒÛ8×ù˜µ.
+msquid:S1192"JDefine a constant instead of duplicating this literal "hello.txt" 4 times.(ÍŒ¸»ÿÿÿÿÿ8Ò‰™µ.
+lsquid:S4042e"IUse "java.nio.Files#delete" here for better messages on error conditions.(ó•Å¦úÿÿÿÿ8ìÏ™µ.
+_squid:S1075L"ARefactor your code to get this URI from a customizable parameter.(»»öˆ8Œ€´™µ.
+nsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8ŞÇª™µ.
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(Éæ˜š8òşÊ˜µ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Âìéûÿÿÿÿ8¼û»˜µ.
+_squid:S1075!"ARefactor your code to get this URI from a customizable parameter.(©£ÜÇ8úàÛ˜µ.

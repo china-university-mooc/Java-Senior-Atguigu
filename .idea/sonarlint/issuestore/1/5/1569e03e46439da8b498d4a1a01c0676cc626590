@@ -1,0 +1,5 @@
+
+csquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ü¨¯ı8Ë©ÕŠµ.
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8©ÈáŠµ.
+Fsquid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼¡êŠµ.
+Rsquid:S2864("4Iterate over the "entrySet" instead of the "keySet".(Æ—Ÿ¤8ã‰æŠµ.

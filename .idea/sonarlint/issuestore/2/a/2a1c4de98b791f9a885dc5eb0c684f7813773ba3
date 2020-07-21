@@ -1,0 +1,14 @@
+
+€squid:S4165#"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(äïì«8Ø¿Í¶.
+Isquid:S1481H"+Remove this unused "person" local variable.(˜†±‚8Ø¿Í¶.
+Fsquid:S1481!")Remove this unused "list" local variable.(Õ±Ä8Ø¿Í¶.
+Dsquid:S1481"&Remove this unused "o" local variable.(±¤ º8ßê»•µ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëùä†8Ø¿Í¶.
+isquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(íğé8Ø¿Í¶.
+nsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(£‰¯şøÿÿÿÿ8Ø¿Í¶.
+nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(Ø®î¼ûÿÿÿÿ8Ø¿Í¶.
+Nsquid:S1481J"+Remove this unused "object" local variable.(Ä§Òóıÿÿÿÿ8Ø¿Í¶.
+Lsquid:S1481")Remove this unused "arr2" local variable.(Î±ÛÒÿÿÿÿÿ8ßê»•µ.
+…squid:S4165"bRemove this useless assignment; "arr2" already holds the assigned value along all execution paths.(ïº¼¦øÿÿÿÿ8ßê»•µ.
+€squid:S4165""bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ëÙæÍ8Ø¿Í¶.
+‚squid:S4165"_Remove this useless assignment; "o" already holds the assigned value along all execution paths.(ß¿Ö£ùÿÿÿÿ8ßê»•µ.

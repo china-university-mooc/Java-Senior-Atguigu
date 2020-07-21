@@ -1,0 +1,6 @@
+
+lsquid:S40423"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8Î±šµ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×¬ôÿÿÿÿÿ8ÅŠ¬šµ.
+]
+squid:S8993";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8Î±šµ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Â’Ûìıÿÿÿÿ8»¿·šµ.

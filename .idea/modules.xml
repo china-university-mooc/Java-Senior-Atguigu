@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/05-enum-annotation/05-enum-annotation.iml" filepath="$PROJECT_DIR$/05-enum-annotation/05-enum-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-collection/06-collection.iml" filepath="$PROJECT_DIR$/06-collection/06-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-generic/07-generic.iml" filepath="$PROJECT_DIR$/07-generic/07-generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-io/08-io.iml" filepath="$PROJECT_DIR$/08-io/08-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Senior-Atguigu.iml" filepath="$PROJECT_DIR$/Java-Senior-Atguigu.iml" />
     </modules>
   </component>

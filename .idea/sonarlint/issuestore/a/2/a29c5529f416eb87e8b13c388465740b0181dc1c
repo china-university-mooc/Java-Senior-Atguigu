@@ -1,0 +1,9 @@
+
+[squid:S3878w"8Remove this array creation and simply pass the elements.(Éº©Üüÿÿÿÿ8½ÂÙ´.
+isquid:S11923"FDefine a constant instead of duplicating this literal "Jerry" 6 times.(£´Ş×ÿÿÿÿÿ8ğíœØ´.
+Csquid:S2129G" Remove this "String" constructor(ÅÛıÌıÿÿÿÿ8ğíœØ´.
+Csquid:S21294" Remove this "String" constructor(ÅÛıÌıÿÿÿÿ8„­…Ø´.
+Csquid:S2129U" Remove this "String" constructor(ÅÛıÌıÿÿÿÿ8ÀÃ°Ø´.
+Csquid:S2129\" Remove this "String" constructor(¸²ş›şÿÿÿÿ8ÀÃ°Ø´.
+Csquid:S2129i" Remove this "String" constructor(ÅÛıÌıÿÿÿÿ8€Ü¬Ù´.
+\squid:S3878t"9Disambiguate this call by either casting as "T" or "T[]".(Ä‡ğ×ûÿÿÿÿ8ß¼¹Ù´.

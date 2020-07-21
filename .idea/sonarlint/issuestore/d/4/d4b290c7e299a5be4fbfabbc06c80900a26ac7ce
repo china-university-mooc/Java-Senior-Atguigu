@@ -1,0 +1,6 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Êƒôžøÿÿÿÿ8Ìðú„µ.
+Rsquid:S1481>"5Remove this unused "synchronizedList" local variable.(àÁÛ98¾ù²ˆµ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒ”Ãçÿÿÿÿÿ8óé……µ.
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(€Üÿù8òâ•ˆµ.
+¯%squid:RedundantThrowsDeclarationCheck;"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(þµŠä8¢ûÐˆµ.
