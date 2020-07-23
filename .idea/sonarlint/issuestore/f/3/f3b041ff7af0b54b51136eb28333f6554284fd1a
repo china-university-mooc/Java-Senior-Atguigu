@@ -1,0 +1,5 @@
+
+fsquid:S20957"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(•ÌÓ»ÿÿÿÿÿ
+nsquid:S2095;"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(®‹Èðþÿÿÿÿ
+gsquid:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(¥Š·üùÿÿÿÿ8ÝúâŒ·.
+tsquid:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(ÁùÙ×ýÿÿÿÿ8ù·áŒ·.

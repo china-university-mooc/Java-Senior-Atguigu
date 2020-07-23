@@ -1,0 +1,6 @@
+
+9squid:S2326"T is not used in the class.(ÇœÅÆ8›Âİ´·.
+†"squid:ClassVariableVisibilityCheck"RMake weight a static final constant or non-public and provide accessors if needed.(œŠ¾x8ÄÅß´·.
+\squid:UnusedPrivateMethod
+"+Remove this unused private "breath" method.(ˆÏâ¬ıÿÿÿÿ8ÄÅß´·.
+Msquid:S1068"*Remove this unused "gender" private field.(ùì²şÿÿÿÿ8ÄÅß´·.

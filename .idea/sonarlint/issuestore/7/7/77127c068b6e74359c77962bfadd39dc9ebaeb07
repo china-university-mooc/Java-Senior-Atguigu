@@ -1,15 +1,21 @@
 
-Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ê›ßİ¶.
-Fsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áİİ¶.
-Fsquid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÖÙãİ¶.
-Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8áİİ¶.
-qsquid:S2095H"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ìÆœùÿÿÿÿ8ÖÙãİ¶.
-dsquid:S10758"ARefactor your code to get this URI from a customizable parameter.(ëÿõÓûÿÿÿÿ8ª³êİ¶.
-Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Š¸Şİ¶.
-Fsquid:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÖÙãİ¶.
-ksquid:S2095G"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Òóá÷8ÖÙãİ¶.
-ksquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Òóá÷8×òŞİ¶.
-dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(õÁ¡´ùÿÿÿÿ8¯¢àİ¶.
-Fsquid:S1148Y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÖÙãİ¶.
-Msquid:S2093C"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÖÙãİ¶.
-qsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ìÆœùÿÿÿÿ8á›Şİ¶.
+ksquid:S2095u"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Òóá÷8ÖÙãİ¶.
+Fsquid:S1148["#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Äìµã¶.
+Fsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼ë·ã¶.
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áİİ¶.
+ksquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Òóá÷8×òŞİ¶.
+Msquid:S2093q"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÖÙãİ¶.
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Š¸Şİ¶.
+Fsquid:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼ë·ã¶.
+qsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ìÆœùÿÿÿÿ8á›Şİ¶.
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8áİİ¶.
+Fsquid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ê›ßİ¶.
+qsquid:S2095v"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ìÆœùÿÿÿÿ8ÖÙãİ¶.
+Gsquid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÖÙãİ¶.
+dsquid:S1075<"ARefactor your code to get this URI from a customizable parameter.(ëÿõÓûÿÿÿÿ8ª³êİ¶.
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÖÙãİ¶.
+Msquid:S2093H"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Äìµã¶.
+nsquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(í´÷şüÿÿÿÿ8É¯Ùã¶.
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÖÙãİ¶.
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(õÁ¡´ùÿÿÿÿ8¯¢àİ¶.
+nsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(‚òşÿÿÿÿ8ŸÊËã¶.

@@ -1,0 +1,7 @@
+
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÝÛ‰ä¶.
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÝÛ‰ä¶.
+bsquid:S2147)"DCombine this catch with the one at line 39, which has the same body.(ï­£Ä8ÝÛ‰ä¶.
+Hsquid:S1172"*Remove this unused method parameter "key".(‹ÝÔë8ê¯¤ä¶.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éÛ¤þÿÿÿÿ8ê¯¤ä¶.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ø¿¾Ïùÿÿÿÿ8¹­•ä¶.

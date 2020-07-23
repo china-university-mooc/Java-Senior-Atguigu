@@ -1,0 +1,8 @@
+
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µøÂŒ·.
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8êù½Œ·.
+Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µøÂŒ·.
+msquid:S2095E"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(•ÌÓ»ÿÿÿÿÿ8¹€ÓŒ·.
+usquid:S2095I"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(®‹Èðþÿÿÿÿ8¹€ÓŒ·.
+Fsquid:S1148)"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8êù½Œ·.
+Fsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µøÂŒ·.

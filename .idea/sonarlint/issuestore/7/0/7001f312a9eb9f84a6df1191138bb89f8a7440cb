@@ -1,0 +1,5 @@
+
+„"squid:ClassVariableVisibilityCheck"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8Õ¶¡·.
+`squid:UnusedPrivateMethod1"/Remove this unused private "showNation" method.(Ëñµóüÿÿÿÿ8¢ãÇ¡·.
+asquid:UnusedPrivateMethod"0Remove this unused private "Person" constructor.(›Êÿ¿üÿÿÿÿ8’î¡·.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í‹ù—ûÿÿÿÿ8æÌ¸´·.

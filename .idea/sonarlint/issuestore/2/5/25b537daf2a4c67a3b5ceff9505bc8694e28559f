@@ -1,0 +1,8 @@
+
+Msquid:S2093""*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Žé£õ¶.
+qsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(€Û‚×ùÿÿÿÿ8Ö×Ðå¶.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ð¬þÕøÿÿÿÿ8Ü–Üå¶.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”ÀØí8Ü–Üå¶.
+Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Îü¤õ¶.
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Žé£õ¶.
+Wsquid:S4719$"9Replace charset name argument with StandardCharsets.UTF_8(¡î³â8Žé£õ¶.

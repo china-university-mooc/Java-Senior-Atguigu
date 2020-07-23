@@ -1,14 +1,15 @@
 
-Msquid:S20935"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ûÔËÜ¶.
-Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8øµ¢Ö¶.
-nsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(±ÿµªşÿÿÿÿ8ñ£‰İ¶.
-Fsquid:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ì‹ÌÜ¶.
-Fsquid:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀçàÜ¶.
-dsquid:S1075O"ARefactor your code to get this URI from a customizable parameter.(ëÿõÓûÿÿÿÿ8ñ£‰İ¶.
-Fsquid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8øµ¢Ö¶.
-Fsquid:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÔËÜ¶.
+Fsquid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀçàÜ¶.
+Fsquid:S1148w"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀçàÜ¶.
+Msquid:S2093:"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ûÔËÜ¶.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôÃ¸Çùÿÿÿÿ8öÄêã¶.
+Fsquid:S1148~"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀçàÜ¶.
+Fsquid:S1148#"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8øµ¢Ö¶.
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8øµ¢Ö¶.
+Fsquid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8øµ¢Ö¶.
+Msquid:S2093c"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÀçàÜ¶.
+Fsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÔËÜ¶.
+dsquid:S1075T"ARefactor your code to get this URI from a customizable parameter.(ëÿõÓûÿÿÿÿ8ñ£‰İ¶.
+Fsquid:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ì‹ÌÜ¶.
 Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8øµ¢Ö¶.
-Msquid:S2093^"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÀçàÜ¶.
-Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8øµ¢Ö¶.
-Fsquid:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀçàÜ¶.
-Fsquid:S1148y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀçàÜ¶.
+nsquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(±ÿµªşÿÿÿÿ8ñ£‰İ¶.

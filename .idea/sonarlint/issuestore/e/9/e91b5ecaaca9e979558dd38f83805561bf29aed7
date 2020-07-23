@@ -1,0 +1,10 @@
+
+Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬ÿ¶.
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¬ÿ¶.
+Fsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Çåœÿ¶.
+Msquid:S2093+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Çåœÿ¶.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬ÿ¶.
+Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ê¿ÿ¶.
+=squid:S2129" Remove this "String" constructor(¢¡âV8…±’ÿ¶.
+bsquid:S21479"DCombine this catch with the one at line 55, which has the same body.(ıàÑÎ8Çåœÿ¶.
+Fsquid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Çåœÿ¶.

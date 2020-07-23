@@ -1,0 +1,9 @@
+
+Ysquid:UnusedPrivateMethod-"-Remove this unused private "showDesc" method.(èÑâ©8»á¸·.
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(É÷Ñ°ÿÿÿÿÿ8£¦¬¶·.
+ %squid:RedundantThrowsDeclarationCheck"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(ÇÌˆH8§¹­¶·.
+|squid:S1210)"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(œŸëßùÿÿÿÿ8ıŸé´·.
+¸%squid:RedundantThrowsDeclarationCheck"€Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.dom.AbortException' which is a runtime exception.(ÇÌˆH8£¦¬¶·.
+ˆ"squid:ClassVariableVisibilityCheck
+"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8üıë´·.
+Fsquid:S1068"(Remove this unused "name" private field.(Ë¥¼8üıë´·.

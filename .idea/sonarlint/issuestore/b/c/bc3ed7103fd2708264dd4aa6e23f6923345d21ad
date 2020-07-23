@@ -1,0 +1,7 @@
+
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÉüÃÍ8Ş†ä··.
+jsquid:S00112+"FDefine and throw a dedicated exception instead of using a generic one.( ê¾ºÿÿÿÿÿ8äÕ¦¸·.
+gsquid:CallToDeprecatedMethod"3Remove this use of "newInstance"; it is deprecated.(ÙÌõÆúÿÿÿÿ8ñìà··.
+gsquid:CallToDeprecatedMethod"3Remove this use of "newInstance"; it is deprecated.(ÙÌõÆúÿÿÿÿ8´èı··.
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÙÓÆøúÿÿÿÿ8ÑŸş··.
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ƒôı³øÿÿÿÿ8¹‡˜¸·.

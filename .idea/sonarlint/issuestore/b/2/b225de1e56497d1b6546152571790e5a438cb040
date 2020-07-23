@@ -1,0 +1,14 @@
+
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8›³Ž„·.
+nsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(ªµ¼¬úÿÿÿÿ8º®Ù„·.
+nsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(íÑÞ´þÿÿÿÿ8®æù„·.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ôÖ‹„·.
+hsquid:S11920"JDefine a constant instead of duplicating this literal "hello.txt" 3 times.(–šÃ”8ªšµ„·.
+qsquid:S2095<"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(à”ô…úÿÿÿÿ8ñµÞ„·.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¤ Ž„·.
+isquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(¢´×ê8°µå„·.
+lsquid:S20950"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(–šÃ”8ŸØ „·.
+qsquid:S2095g"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(à”ô…úÿÿÿÿ8 •®„·.
+nsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ñ½…Åøÿÿÿÿ8½èØ„·.
+nsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(Åß²­ùÿÿÿÿ8°µå„·.
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ôÖ‹„·.

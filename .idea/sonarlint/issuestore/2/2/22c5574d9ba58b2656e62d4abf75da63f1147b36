@@ -1,0 +1,9 @@
+
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8É±å‹·.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8É±å‹·.
+Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8É±å‹·.
+msquid:S2095/"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ƒÿ¹™ûÿÿÿÿ8³¼æ‹·.
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8É±å‹·.
+hsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(à…·K8–Äø‹·.
+nsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(êÒ¾¶ýÿÿÿÿ8–Äø‹·.
+nsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(íí¦ÿýÿÿÿÿ8–Äø‹·.
