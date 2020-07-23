@@ -18,15 +18,17 @@ import com.itutry.team.domain.PC;
 import com.itutry.team.domain.Printer;
 import com.itutry.team.domain.Programmer;
 import com.itutry.team.util.Data;
+import java.util.ArrayList;
+import java.util.List;
 
 public class NameListService {
 
-	private Employee[] employees;
+	private List<Employee> employees;
 
 	public NameListService() {
-		employees = new Employee[EMPLOYEES.length];
-		for (int i = 0; i < employees.length; i++) {
-			employees[i] = parseEmployee(EMPLOYEES[i], i);
+		employees = new ArrayList<>(EMPLOYEES.length);
+		for (int i = 0; i < EMPLOYEES.length; i++) {
+			employees.add(parseEmployee(EMPLOYEES[i], i));
 		}
 	}
 
@@ -77,17 +79,17 @@ public class NameListService {
 		return null;
 	}
 
-	public Employee[] getAllEmployees() {
+	public List<Employee> getAllEmployees() {
 		return employees;
 	}
 
 	public Employee getEmployee(int id) throws TeamException {
-		for (int i = 0; i < employees.length; i++) {
-			if (employees[i].getId() == id) {
-				return employees[i];
+		for (Employee e : employees) {
+			if (e.getId() == id) {
+				return e;
 			}
 		}
-		
+
 		throw new TeamException("找不到指定员工");
 	}
 }

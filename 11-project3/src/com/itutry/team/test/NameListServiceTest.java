@@ -1,22 +1,22 @@
 package com.itutry.team.test;
 
-import org.junit.Test;
-
 import com.itutry.team.domain.Employee;
 import com.itutry.team.service.NameListService;
 import com.itutry.team.service.TeamException;
+import java.util.List;
+import org.junit.Test;
 
 public class NameListServiceTest {
 
 	@Test
 	public void testGetAllEmployees() {
 		NameListService nameListService = new NameListService();
-		Employee[] allEmployees = nameListService.getAllEmployees();
-		for (int i = 0; i < allEmployees.length; i++) {
-			System.out.println(allEmployees[i]);
+		List<Employee> allEmployees = nameListService.getAllEmployees();
+		for(Employee e : allEmployees) {
+			System.out.println(e);
 		}
 	}
-	
+
 	@Test
 	public void testGetEmployee() {
 		NameListService nameListService = new NameListService();

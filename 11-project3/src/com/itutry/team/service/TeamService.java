@@ -7,24 +7,21 @@ import com.itutry.team.domain.Architect;
 import com.itutry.team.domain.Designer;
 import com.itutry.team.domain.Employee;
 import com.itutry.team.domain.Programmer;
+import java.util.ArrayList;
+import java.util.List;
 
 public class TeamService {
 
 	private static int counter = 1;
 	private static final int MAX_MEMBER = 5;
-	private Programmer[] team = new Programmer[MAX_MEMBER];
-	private int total = 0;
+	private List<Programmer> team = new ArrayList<>(MAX_MEMBER);
 
-	public Programmer[] getTeam() {
-		Programmer[] result = new Programmer[total];
-		for (int i = 0; i < result.length; i++) {
-			result[i] = team[i];
-		}
-		return result;
+	public List<Programmer> getTeam() {
+		return team;
 	}
 
 	public void addMember(Employee e) throws TeamException {
-		if (total >= MAX_MEMBER) {
+		if (team.size() >= MAX_MEMBER) {
 			throw new TeamException("成员已满，无法添加");
 		}
 
@@ -48,12 +45,12 @@ public class TeamService {
 		int numOfArchitect = 0;
 		int numOfDesigner = 0;
 		int numOfProgrammer = 0;
-		for (int i = 0; i < total; i++) {
-			if (team[i] instanceof Architect) {
+		for (int i = 0; i < team.size(); i++) {
+			if (team.get(i) instanceof Architect) {
 				numOfArchitect++;
-			} else if (team[i] instanceof Designer) {
+			} else if (team.get(i) instanceof Designer) {
 				numOfDesigner++;
-			} else if (team[i] instanceof Programmer) {
+			} else if (team.get(i) instanceof Programmer) {
 				numOfProgrammer++;
 			}
 		}
@@ -74,12 +71,12 @@ public class TeamService {
 
 		p.setMemberId(counter++);
 		p.setStatus(BUSY);
-		team[total++] = p;
+		team.add(p);
 	}
 
 	private boolean isInTeam(Employee e) {
-		for (int i = 0; i < total; i++) {
-			if (team[i].getId() == e.getId()) {
+		for (Programmer p : team) {
+			if (p.getId() == e.getId()) {
 				return true;
 			}
 		}
@@ -88,22 +85,18 @@ public class TeamService {
 
 	public void removeMember(int memberId) throws TeamException {
 		int i;
-		for (i = 0; i < total; i++) {
-			if (team[i].getMemberId() == memberId) {
-				team[i].setStatus(FREE);
-				team[i].setMemberId(0);
+		for (i = 0; i < team.size(); i++) {
+			if (team.get(i).getMemberId() == memberId) {
+				team.get(i).setStatus(FREE);
+				team.get(i).setMemberId(0);
 				break;
 			}
 		}
 
-		if (i == total) {
+		if (i == team.size()) {
 			throw new TeamException("找不到指定memberId的员工，删除失败");
 		}
 
-		for (int j = i + 1; j < total; j++) {
-			team[j - 1] = team[j];
-		}
-
-		team[--total] = null;
+		team.remove(i);
 	}
 }
